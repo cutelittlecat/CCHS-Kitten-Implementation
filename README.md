@@ -15,4 +15,4 @@ This python implementation of copycat harmony search is based on the [pyHarmonyS
 Not working on Windows 10 for some reason, worked on Ubuntu 18.04.
 
 # How to use
-See [examples](https://github.com/cutelittlecat/CCHS-Kitten-Implementation/example) in the example folder.
+See [examples](https://github.com/cutelittlecat/CCHS-Kitten-Implementation/tree/master/example) in the example folder.
